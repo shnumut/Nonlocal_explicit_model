@@ -1,2 +1,2 @@
-# Nonlocal_explicit_model
+# Nonlocal-explicit-model
 Nonlocal_explicit_L_shaped_model
